@@ -20,3 +20,9 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
 </p>
+
+
+
+- 🔭 I’m currently working on ERB System
+- 🌱 I’m currently learning Node.js
+- 👯 I’m looking to collaborate on Backend Developer
