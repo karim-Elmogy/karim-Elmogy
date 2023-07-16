@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karim-Elmogy&show_icons=true&theme=gruvbox&locale=en" alt="karim-Elmogy" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karim-Elmogy&theme=highcontrast" alt="karim-Elmogy" /></p>
 
 
 ## Languages and Tools:
