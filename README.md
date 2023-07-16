@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **karim-Elmogy/karim-Elmogy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,8 +17,6 @@ Here are some ideas to get you started:
 
 <h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="38px">, I'm Karim Elmogy</h1>
 
-<h3>A passionate Front-end web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> !!!</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karim-Elmogy&label=Profile%20views&color=0e75b6&style=flat" alt="rock12231" /> </p>
 <p align="center">
 <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
 </p>
