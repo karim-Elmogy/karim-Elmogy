@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
 </p>
 
-<p>
+<p align="center">
 <a href="https://www.linkedin.com/in/karim-elmogy-5329031a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="2xdo" height="20" width="30" /></a>
 <a href="https://www.facebook.com/KarimElmogy99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mastefoo" height="20" width="30" /></a>
 <a href="mailto:kimo7263@gmail.com">
